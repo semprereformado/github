@@ -1,7 +1,10 @@
 # Fundamentos do Git
 Este arquivo será usado para praticar os primeiros comandos do Git.
+
 ## Comandos básicos e suas funções
+
 `touch <arquivo>`: cria um arquivo
+
 
 `git status`: verifica o status do repositório (ver o que mudou)
 `git add <arquivo>`: adiciona o arquivo ao controle de versão (marca arquivos para commit)
